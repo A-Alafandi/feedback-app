@@ -1,4 +1,4 @@
-React Feedback App
+# React Feedback App
 This project allows users to add, update, and delete feedback. It uses a mock REST API with JSON-server.
 
 This project goes over all of the fundamentals of React including...
