@@ -14,7 +14,6 @@ function FeedbackList({ feedback }) {
     </div>
   )
 }
-
 FeedbackList.porpTypes = {
   feedback: PropTypes.arrayOf(
     PropTypes.shape({
